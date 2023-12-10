@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MtechZilla-Assignment-1/static/css/main.154a9534.css",
+    "main.js": "/MtechZilla-Assignment-1/static/js/main.65a0b228.js",
+    "index.html": "/MtechZilla-Assignment-1/index.html",
+    "main.154a9534.css.map": "/MtechZilla-Assignment-1/static/css/main.154a9534.css.map",
+    "main.65a0b228.js.map": "/MtechZilla-Assignment-1/static/js/main.65a0b228.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.154a9534.css",
+    "static/js/main.65a0b228.js"
+  ]
+}
